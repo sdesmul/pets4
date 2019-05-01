@@ -1,0 +1,16 @@
+{
+  "name": "sdesmul/IT328/pets3",
+  "authors": [
+    {
+      "name": "Samantha DeSmul",
+      "email": "sdesmul@mail.greenriver.edu"
+    },
+    {
+      "name": "Quill McConnell",
+      "email": "smcconnell@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
